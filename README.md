@@ -1,1 +1,4 @@
-# garden
+Structure:
+
+webpack
+src/[project]
